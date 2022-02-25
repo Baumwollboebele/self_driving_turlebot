@@ -1,4 +1,12 @@
-# AMR: Final bachelor project documentation
+#Self Driving Turlebot
+
+
+## Table of Contents
+1. [Directory Structure](#directory-structure)
+2. [How to start the project](#how-to-start-the-project)
+3. [The Robot](#the-robot)
+4. [The Algorithm](#the-algorithm)
+5. [Difficulties](#difficulties)
 
 
 ## Directory structure
